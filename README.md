@@ -14,7 +14,7 @@ Inside the **structure** folder, you'll find three subfolders containing Autoenc
 ### Autoencoder Scripts
 
 1. **wt30MM/autoencoder_Hic.py**
-   -- Python script to train the autoencoder for wild-type Hi-C matrix.
+   - Python script to train the autoencoder for wild-type Hi-C matrix.
 
 2. **delmatp30MM/predicted_from_wt30MM_training/auto_delta_matp.py**
    - Python script to recreate the Hi-C matrix for the $\Delta$MatP mutant using a trained model on WT30MM data.
