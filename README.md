@@ -10,14 +10,11 @@ Ensure you have the following Python packages installed to run the code:
 
 ## Structure Folder
 
-Explore the organized structure of the project, consisting of two main aspects: **structure** and **dynamics**.
-
+Inside the **structure** folder, you'll find three subfolders containing Autoencoder scripts:
 ### Autoencoder Scripts
 
-Inside the **structure** folder, you'll find three subfolders containing Autoencoder scripts:
-
 1. **wt30MM/autoencoder_Hic.py**
-   - Python script to train the autoencoder for wild-type Hi-C matrix.
+   -- Python script to train the autoencoder for wild-type Hi-C matrix.
 
 2. **delmatp30MM/predicted_from_wt30MM_training/auto_delta_matp.py**
    - Python script to recreate the Hi-C matrix for the $\Delta$MatP mutant using a trained model on WT30MM data.
@@ -26,8 +23,8 @@ Inside the **structure** folder, you'll find three subfolders containing Autoenc
    - Python script to recreate the Hi-C matrix for the $\Delta$MukBEF mutant using a trained model on WT30MM data.
 
 ## Dynamics Folder
-
 Within the **dynamics** folder, you'll find three subfolders containing Random Forest Regression scripts:
+### Random Forest regression Scripts
 
 1. **wt30mm/hic_random_forest.py**
    - Python scripts for training and predicting the dynamics of wild-type chromosomes.
