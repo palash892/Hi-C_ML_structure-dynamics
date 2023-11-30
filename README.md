@@ -1,6 +1,45 @@
 # Hi-C_ML_structure-dynamics
 
-**To run the code one needs the following Python packages**
-1. numpy
-2. tensorflow
-3. scikit-learn
+# Code Requirements
+
+Ensure you have the following Python packages installed to run the code:
+
+1. [numpy](https://numpy.org/)
+2. [tensorflow](https://www.tensorflow.org/)
+3. [scikit-learn](https://scikit-learn.org/stable/)
+
+## Structure Folder
+
+Explore the organized structure of the project, consisting of two main aspects: **structure** and **dynamics**.
+
+### Autoencoder Scripts
+
+Inside the **structure** folder, you'll find three subfolders housing Autoencoder scripts:
+
+1. **wt30MM/autoencoder_Hic.py**
+   - Python script to train the autoencoder for wild-type Hi-C matrix.
+
+2. **delmatp30MM/predicted_from_wt30MM_training/auto_delta_matp.py**
+   - Python script to recreate the Hi-C matrix for the $\Delta$MatP mutant using a trained model on WT30MM data.
+
+3. **delmukbf22MM/predicted_from_wt30MM_training/auto_delta_mukbf.py**
+   - Python script to recreate the Hi-C matrix for the $\Delta\Delta$MukBEF mutant using a trained model on WT30MM data.
+
+## Dynamics Folder
+
+Within the **dynamics** folder, find three subfolders containing Random Forest Regression scripts:
+
+1. **wt30mm/hic_random_forest.py**
+   - Python scripts for training and predicting the dynamics of wild-type chromosomes.
+
+2. **delmatp30MM/hic_random_forest_predict_delmatp.py**
+   - Python scripts to predict the dynamics for the $\Delta$MatP mutant using a trained model on WT30MM data.
+
+3. **delmukbf22MM/hic_random_forest_predict_delmukbef.py**
+   - Python scripts to predict the dynamics for the $\Delta\Delta$MukBEF mutant using a trained model on WT30MM data.
+
+Feel free to explore and contribute to this project! If you encounter any issues or have suggestions, please open an [issue](link to issues) or submit a [pull request](link to pull requests).
+
+
+
+
