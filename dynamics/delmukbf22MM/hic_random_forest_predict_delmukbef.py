@@ -121,5 +121,5 @@ np.savetxt(f"correlation/predicted_delmukbf22MM_rho_trees_{trees}_rf.txt", np.ar
 np.savetxt(f"error/different_error_delmukbf22MM_trees_{trees}_rf.txt", np.array([error_mae, error_mse, error_rsqrt]).T,
 	delimiter = "\t", fmt = "%0.3e")
 pbar.close()
-plt.show()
+
      
