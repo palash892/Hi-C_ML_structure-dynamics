@@ -150,5 +150,5 @@ np.savetxt(f"correlation/predicted_rho_traj_{run_train}_trees_{trees}_rf.txt", n
 np.savetxt(f"error/different_error_traj_{run_train}_trees_{trees}_rf.txt", np.array([error_mae, error_mse, error_rsqrt]).T,
 	delimiter = "\t", fmt = "%0.3e")
 pbar.close()
-plt.show()
+
      
