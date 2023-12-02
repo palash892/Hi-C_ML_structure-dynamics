@@ -120,7 +120,7 @@ for f in range(1, 11, 1):
        rec_loss.append(reconstruction_loss)
 
        # Calculate the Fraction of Variance Explained (FVE)
-       total_variance = np.sum((X_train - np.mean(X_train))**2)
+       total_variance = np.sum((X_train - np.mean(X_train, axis = 0))**2)
        reconstruction_error = np.sum((X_train - encoded_data)**2)
        fve = 1 - (reconstruction_error / total_variance)
 
