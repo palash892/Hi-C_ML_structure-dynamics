@@ -37,6 +37,6 @@ Within the **dynamics** folder, you'll find three subfolders containing Random F
   
    
 ## News!  
-We are thrilled to announce that our work has been published in <span style="color:blue; font-weight:bold;">Nucleic Acids Research</span>! You can explore the full article [here](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkae749/7747202). This publication highlights our latest research on decoding the structure and dynamics of bacterial chromosomes using machine learning approaches. Stay tuned for more exciting developments!
+We are thrilled to announce that our work has been published in **Nucleic Acids Research**! You can explore the full article [here](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkae749/7747202). This publication highlights our latest research on decoding the structure and dynamics of bacterial chromosomes using machine learning approaches. Stay tuned for more exciting developments!
 
 
