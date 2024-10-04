@@ -34,4 +34,8 @@ Within the **dynamics** folder, you'll find three subfolders containing Random F
 
 3. **delmukbf22MM/hic_random_forest_predict_delmukbef.py**
    - Python scripts to predict the dynamics for the $\Delta$ MukBEF mutant using a trained model on WT30MM data.
-## News!
+  
+   
+## News!  
+We are thrilled to announce that our work has been published in *Nucleic Acids Research*! You can explore the full article [here](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkae749/7747202). This publication highlights our latest research on decoding the structure and dynamics of bacterial chromosomes using machine learning approaches. Stay tuned for more exciting developments!
+
