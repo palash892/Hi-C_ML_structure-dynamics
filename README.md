@@ -34,3 +34,4 @@ Within the **dynamics** folder, you'll find three subfolders containing Random F
 
 3. **delmukbf22MM/hic_random_forest_predict_delmukbef.py**
    - Python scripts to predict the dynamics for the $\Delta$ MukBEF mutant using a trained model on WT30MM data.
+## News!
