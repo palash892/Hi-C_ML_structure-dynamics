@@ -43,6 +43,15 @@ We are thrilled to announce that our work has been published in **Nucleic Acids 
 
 If you use this code, please cite the following paper:
 
-@article{bera2024machine, title={Machine learning unravels inherent structural patterns in Escherichia coli Hi-C matrices and predicts chromosome dynamics}, author={Bera, Palash and Mondal, Jagannath}, journal={Nucleic Acids Research}, volume={52}, number={18}, pages={10836--10849}, year={2024}, publisher={Oxford University Press} }
+@article{bera2024machine,
+  title={Machine learning unravels inherent structural patterns in Escherichia coli Hi-C matrices and predicts chromosome dynamics},
+  author={Bera, Palash and Mondal, Jagannath},
+  journal={Nucleic Acids Research},
+  volume={52},
+  number={18},
+  pages={10836--10849},
+  year={2024},
+  publisher={Oxford University Press}
+}
 
 
