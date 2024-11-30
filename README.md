@@ -39,4 +39,10 @@ Within the **dynamics** folder, you'll find three subfolders containing Random F
 ## News!  
 We are thrilled to announce that our work has been published in **Nucleic Acids Research**! You can explore the full article [here](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkae749/7747202). This publication highlights our latest research on decoding the structure and dynamics of bacterial chromosomes using machine learning approaches. Stay tuned for more exciting developments!
 
+## Citation
+
+If you use this code, please cite the following paper:
+
+@article{bera2024machine, title={Machine learning unravels inherent structural patterns in Escherichia coli Hi-C matrices and predicts chromosome dynamics}, author={Bera, Palash and Mondal, Jagannath}, journal={Nucleic Acids Research}, volume={52}, number={18}, pages={10836--10849}, year={2024}, publisher={Oxford University Press} }
+
 
