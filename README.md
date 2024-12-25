@@ -1,4 +1,4 @@
-## Welcome to the repository for the research project titled <span style="color:blue">Machine learning unravels inherent structural patterns in Escherichia coli Hi-C matrices and predicts chromosome dynamics</span>
+## ## Welcome to the repository for the research project titled **_Machine learning unravels inherent structural patterns in Escherichia coli Hi-C matrices and predicts chromosome dynamics_**
 
 
 # Abstract
