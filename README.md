@@ -1,12 +1,12 @@
 # Hi-C_ML_structure-dynamics
 
-# Code Requirements
-
 # Graphical abstract.
 
 We first employ an artificial neural network (ANN) based frame-work known as Autoencoder, in a bid to uncover crucial structural insights embedded within this large Hi-C matrix. Autoencoder is an unsupervised machine learning algorithm. It consists of an encoder and a decoder and in between there is a bottleneck. The encoder transforms high-dimensional input data to a lower-dimensional latent space, while the decoder reconstructs the initial input data from the latent space. We integrate Hi-C contacts into a polymer-based model, predicting diffusive dynamics of a large number of chromosomal loci using a supervised machine learning technique called Random Forest (RF) regression. Random Forest Regression to extract dynamical information by leveraging the structural properties of the chromosome, such as the pairwise distance between chromosomal beads.
 
 ![](graphical_abstract_nar.png)
+
+# Code Requirements
 
 Ensure you have the following Python packages installed to run the code:
 
